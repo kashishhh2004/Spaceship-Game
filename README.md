@@ -31,7 +31,8 @@ Clone this repository:
 
 bash :-
 git clone https://github.com/kashishhh2004/Spaceship-Game.git
-cd SpaceInvaderGame
+
+cd Spaceship-Game
 Create and activate a virtual environment (optional but recommended):
 
 bash :-
